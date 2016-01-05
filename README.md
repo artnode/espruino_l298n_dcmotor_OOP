@@ -1,7 +1,7 @@
 # espruino_l298n_dcmotor_OOP
 Espruino: Driving DC motors using the L298N H-bridge. 
 
-This is the OOP version.
+This is the object-oriented version.
 
 -------------
 
